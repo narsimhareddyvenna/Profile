@@ -1,0 +1,178 @@
+
+body{
+  margin: 0;
+  text-align: center;
+ font-family: 'Merriweather', serif;
+  font-size: 1 rem;
+  font-weight: normal;
+  line-height: normal;
+}
+
+.top-container{
+  background-color: #a1de93;
+  /*width: 200px;
+  height: 200px;
+  border: solid 10px;
+  */
+  position: relative;
+  padding: 20px;
+
+
+}
+
+h1
+{
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: normal;
+}
+
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 31px;
+}
+
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 31px;
+}
+
+
+.bottom-cloud
+{
+  position: absolute;
+  margin: 0px 0px 0px -112px;
+}
+.top-cloud
+{
+  position: relative;
+  left: 300px;
+
+}
+.img{
+  border-radius: 33%;
+  height: 40%;
+  width: 40%;
+  margin-right: 20px;
+}
+
+/*.profile
+{
+  height: 30%;
+  width: 30%;
+  border-radius: 20px;
+  position: relative;
+  display: inline-block;
+  margin: 10px;
+}*/
+
+.skill-row
+{
+  width:50%;
+  margin: 100px auto 100px auto;
+  margin-top: 10px;
+  line-height: 2;
+  text-align: left;
+}
+
+
+.bottom-container
+{
+  background-color: #a1de93;
+  padding: 10px;
+}
+.footer-link
+{
+  margin: 10px;
+  text-decoration: none;
+}
+
+hr
+{
+  width:10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color:grey;
+  border-width:5px;
+  padding: 20px 20px;
+}
+
+
+.btn {
+	background-color:#a1de93;
+	border-radius:10px;
+	border:2px solid grey;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat';
+	font-size:20px;
+	padding: 0.5em 40px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin: 22px 16px;
+}
+
+
+/*p
+{
+  margin: 0;
+}
+*/
+/*
+.middle-container
+{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: solid 20px;
+    padding: 20px;
+    margin: 10px;
+    position: absolute;
+    top: 258px;
+    right: 789px;
+}*/
+/*.middle-container
+{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: solid 20px;
+    margin-left: 260px;
+
+}
+
+.bottom-container
+{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: solid 10px;
+    border: solid 10px;
+    margin-left: 500px;
+
+}
+*/
+
+/*.bottom-container
+{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: solid 10px;
+    position: absolute;
+    left: 549px;
+    top: 548px;
+}
+*/
